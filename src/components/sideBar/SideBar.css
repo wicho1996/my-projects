@@ -1,0 +1,17 @@
+.side-bar{
+    position: fixed;
+    width: 250px;
+    height: 100%;
+}
+
+.collection-item:hover{
+    background-color: #448aff !important;
+}
+
+.active-item{
+    background-color: #2962ff !important;
+}
+
+.overflowy-auto{
+    overflow-y: auto !important;
+}
