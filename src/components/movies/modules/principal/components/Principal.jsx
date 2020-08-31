@@ -5,9 +5,9 @@ export default function Principal(){
     return(
         <div className="table-component">
             <div className="title">
-                <h1>Title</h1>
+                <h2>Title</h2>
             </div>
-            <table>
+            <table className="centered highlight responsive-table">
                 <thead>
                 <tr>
                     <th>Name</th>
